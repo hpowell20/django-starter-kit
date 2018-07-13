@@ -1,0 +1,35 @@
+# Editor files
+.idea/
+.vscode/
+
+# Temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac specific files
+.DS_Store
+
+# Django specific files
+*.log
+local_settings.py
+db.sqlite3
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+cover/
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/

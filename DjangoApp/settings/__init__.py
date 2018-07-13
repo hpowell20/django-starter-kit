@@ -1,0 +1,1 @@
+from DjangoApp.settings.dev import *
